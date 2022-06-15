@@ -19,17 +19,12 @@ namespace Quản_lý_điểm_sinh_vien_CNTT
             InitializeComponent();
         }
 
-        private void label9_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.Process.Start("Baocao.pptx");
-
-        }
 
         private void label8_Click(object sender, EventArgs e)
         {
             using (Process process = new Process())
             {
-            process.StartInfo.FileName = "mailto:quocvanict@gmail.com";
+            process.StartInfo.FileName = "mailto:dunggthee@gmail.com";
             process.Start();
             }
         }

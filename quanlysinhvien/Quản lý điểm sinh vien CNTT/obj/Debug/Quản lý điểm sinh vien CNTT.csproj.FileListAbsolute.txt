@@ -250,3 +250,42 @@ C:\Users\Administrator\Downloads\De Tai Quan Ly Diem Sinh Vien He Dan Su\De Tai 
 C:\Users\Administrator\Downloads\De Tai Quan Ly Diem Sinh Vien He Dan Su\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.csproj.CopyComplete
 C:\Users\Administrator\Downloads\De Tai Quan Ly Diem Sinh Vien He Dan Su\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.exe
 C:\Users\Administrator\Downloads\De Tai Quan Ly Diem Sinh Vien He Dan Su\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.pdb
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Quản lý điểm sinh vien CNTT.exe.config
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Quản lý điểm sinh vien CNTT.XML
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Quản lý điểm sinh vien CNTT.exe
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Quản lý điểm sinh vien CNTT.pdb
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\office.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\stdole.dll
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\bin\Debug\office.xml
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.csproj.AssemblyReference.cache
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmDangNhap.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmDoiMatKhau.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmDSThiLai.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmGiangVien.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmLop.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmKhoa.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmMain.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmMonHoc.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmQLDiem.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmQLDiemHoclai.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmQLDiemThiLai.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmQLSV.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmQuanLyNguoiDung.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.frmTimDiemSV.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.Properties.Resources.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.ReportDSSV.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.ReportDSThilai.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.ReportTongKet.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.SVThilaivaHoclai.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản_lý_điểm_sinh_vien_CNTT.Trogiup.resources
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.csproj.GenerateResource.cache
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.csproj.CopyComplete
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.exe
+C:\Users\Dung\Downloads\BaiTapLon-main\BaiTapLon-main\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\Quản lý điểm sinh vien CNTT.pdb
